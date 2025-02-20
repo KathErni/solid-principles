@@ -1,0 +1,14 @@
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\bin\Debug\net6.0\SingleResponsiblityPrinciple.exe
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\bin\Debug\net6.0\SingleResponsiblityPrinciple.deps.json
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\bin\Debug\net6.0\SingleResponsiblityPrinciple.runtimeconfig.json
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\bin\Debug\net6.0\SingleResponsiblityPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\bin\Debug\net6.0\SingleResponsiblityPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.AssemblyInfoInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.AssemblyInfo.cs
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\refint\SingleResponsiblityPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\SingleResponsiblityPrinciple.genruntimeconfig.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\SingleResponsiblityPrinciple\SingleResponsiblityPrinciple\obj\Debug\net6.0\ref\SingleResponsiblityPrinciple.dll

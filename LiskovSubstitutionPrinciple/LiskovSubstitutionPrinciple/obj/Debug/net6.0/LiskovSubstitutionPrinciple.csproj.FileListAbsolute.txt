@@ -1,0 +1,14 @@
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.exe
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.deps.json
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\LiskovSubstitutionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\LiskovSubstitutionPrinciple.dll

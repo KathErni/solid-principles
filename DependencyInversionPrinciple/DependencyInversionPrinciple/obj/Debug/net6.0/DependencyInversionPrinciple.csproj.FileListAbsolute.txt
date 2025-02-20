@@ -1,0 +1,14 @@
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll

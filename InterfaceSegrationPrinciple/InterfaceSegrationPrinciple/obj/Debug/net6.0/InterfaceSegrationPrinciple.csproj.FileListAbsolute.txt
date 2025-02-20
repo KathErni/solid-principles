@@ -1,0 +1,14 @@
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\bin\Debug\net6.0\InterfaceSegrationPrinciple.exe
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\bin\Debug\net6.0\InterfaceSegrationPrinciple.deps.json
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\bin\Debug\net6.0\InterfaceSegrationPrinciple.runtimeconfig.json
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\bin\Debug\net6.0\InterfaceSegrationPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\bin\Debug\net6.0\InterfaceSegrationPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.AssemblyInfoInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.AssemblyInfo.cs
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\refint\InterfaceSegrationPrinciple.dll
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.pdb
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\InterfaceSegrationPrinciple.genruntimeconfig.cache
+C:\Users\extmokt\source\repos\SolidPrinciples\InterfaceSegrationPrinciple\InterfaceSegrationPrinciple\obj\Debug\net6.0\ref\InterfaceSegrationPrinciple.dll
